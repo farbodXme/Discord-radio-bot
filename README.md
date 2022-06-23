@@ -1,4 +1,3 @@
-# Discord-radio-bot
 # FARBODxME
 
  سلام دوستان فربد هستم 
